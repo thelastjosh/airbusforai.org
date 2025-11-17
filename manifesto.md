@@ -1,14 +1,17 @@
 # Airbus for AI
 
-Artificial intelligence has become critical infrastructure. Yet the frontier of AI is controlled by a handful of firms—mostly in the U.S. and China.
-
-The middle powers—Canada, Germany, Japan, Spain, Sweden, Switzerland, the U.K.—have invested heavily in labs and compute. But few have built AI products that can compete globally.
-
-This site organizes arguments and efforts to create such Airbus for AI.
+Airbus for AI is a blueprint for a new frontier AI lab designed to compete directly with OpenAI. This site organizes arguments and efforts to create such an Airbus for AI.
 
 ## Executive Summary
 
-Artificial intelligence (AI) is becoming central to economic productivity and national sovereignty, but its current frontier development is concentrated in a few dominant U.S. and Chinese firms. Many middle power countries like Canada, Germany, Japan, Spain, Sweden, Switzerland, and the U.K. have struggled to field competitive AI products despite substantial public and private investment across national labs and national champions <span class="footnote "><span class="footnote-text"></span><div class="footnote-content footnote-content-right" style="margin-top:0"><span>See <a href="https://web.archive.org/web/20220704170213/https://www.newsdemon.com/charter-directory">Testing testing</a></span></div></span> (Allen, 2025; Council of the European Union, 2023; Escritt, 2023; Kreps, 2024; Scott, 2024; Stage et al., 2024; Stanford HAI, 2024). Insufficient funding, a talent/compensation gap, regulatory constraints, and fragmented markets all hinder their ability to scale AI initiatives effectively. As a result, directors in several national AI labs have called for more coordinated public interventions (Bengio, 2023; Valero & Crespo, 2024) while policymakers are debating the case for industrial policy interventions to support domestic AI firms (AI Now Institute, 2024; European Commission, 2025b; UK Government, 2025).
+Artificial intelligence is becoming critical infrastructure. But the frontier of AI is controlled by a handful of firms located almost entirely in the U.S. and China.
+
+The middle powers—Canada, Germany, Japan, Spain, Sweden, Switzerland, the U.K.—have invested heavily in labs and compute. But few have built AI products that can compete globally.
+
+
+Artificial intelligence (AI) is becoming central to economic productivity and national sovereignty, but its current frontier development is concentrated in a few dominant U.S. and Chinese firms. Many middle power countries like Canada, Germany, Japan, Spain, Sweden, Switzerland, and the U.K. have struggled to field competitive AI products despite substantial public and private investment across national labs and national champions (Allen, 2025; Council of the European Union, 2023; Escritt, 2023; Kreps, 2024; Scott, 2024; Stage et al., 2024; Stanford HAI, 2024). Insufficient funding, a talent/compensation gap, regulatory constraints, and fragmented markets all hinder their ability to scale AI initiatives effectively. As a result, directors in several national AI labs have called for more coordinated public interventions (Bengio, 2023; Valero & Crespo, 2024) while policymakers are debating the case for industrial policy interventions to support domestic AI firms (AI Now Institute, 2024; European Commission, 2025b; UK Government, 2025).
+
+<Footnote topOffset={0} data={<span>See <a href="https://web.archive.org/web/20220704170213/https://www.newsdemon.com/charter-directory">https://web.archive.org/web/20220704170213/https://www.newsdemon.com/charter-directory</a></span>}></Footnote>
 
 If AI is to serve the economic and security interests of all countries, it must be developed in a way that balances public value generation with a credible business model and a pathway to scale in global markets. Any solution must also respond to emerging industrial trends in AI, including the increasing commodification of large language models (LLMs), the rise of open source, and the dramatically increasing salience of national security and geopolitics to trade in AI.
 
