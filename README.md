@@ -2,7 +2,7 @@
 
 [Summary](summary.md), [Dilemma](middlepowers.md), [Discussion](...)
 
-Authors: Many people are working to make Airbus for AI a reality. See [About](about.md) for more details.
+Authors: Many people are working to make Airbus for AI a reality.
 
 Running the application locally:
 
