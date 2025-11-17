@@ -6,6 +6,7 @@ import useOutsideClick from "../hooks/useOutsideClick"
 
 const LINKS = [
   { label: "Executive Summary", href: "/" },
+  { label: "Research", href: "/research" },
   { label: "About", href: "/about" },
 ]
 
